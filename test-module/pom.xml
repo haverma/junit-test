@@ -29,9 +29,10 @@
         </configuration>
         <dependencies>
           <dependency>
+            <!-- Deactivate JUnit 4.7 engine by overriding it with an empty dummy -->
             <groupId>org.apache.maven.surefire</groupId>
-            <artifactId>surefire-junit-platform</artifactId>
-            <version>${surefire-version}</version>
+            <artifactId>surefire-junit47</artifactId>
+            <version>dummy</version>
           </dependency>
         </dependencies>
       </plugin>

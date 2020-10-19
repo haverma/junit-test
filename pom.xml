@@ -87,6 +87,7 @@
 
   <modules>
     <module>test-module</module>
+    <module>dummy-surefire-junit47</module>
   </modules>
 
 </project>
