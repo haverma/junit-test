@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8aedb53-c288-4bca-8d5b-0f5c0f12b9e3" name="Default Changelist" comment="1351">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-module/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-module/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-module/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/test-module/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-module/target/surefire-reports/TEST-com.sample.project.tests.JUnit4Tests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-module/target/surefire-reports/TEST-com.sample.project.tests.JUnit4Tests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-module/target/test-module-0.0.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/test-module/target/test-module-0.0.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dVgEZbUBV9JGtYUbGQUYyzNfOK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.oracle.pic.compute.kanga.bb" />
+      <recent name="com.oracle.pic.compute.kanga.wb" />
+      <recent name="com.oracle.pic.compute.worker.workflows.livemigration" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/compute-deployment-config/compute-platform-config/test_3_config" />
+      <recent name="$PROJECT_DIR$/kanga/kanga-blackbox-tests/src/test/resources/kanga-suites" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.DefaultBackoffStrategyTest">
+    <configuration name="DefaultBackoffStrategyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="workflow-interceptors" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oracle.pic.compute.workflow.interceptor.delayed.retry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.oracle.pic.compute.workflow.interceptor.delayed.retry" />
+      <option name="MAIN_CLASS_NAME" value="com.oracle.pic.compute.workflow.interceptor.delayed.retry.DefaultBackoffStrategyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DefaultBackoffStrategyTest.getDelay_generatesExpectedSequesnceOfDelays" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="workflow-interceptors" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oracle.pic.compute.workflow.interceptor.delayed.retry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.oracle.pic.compute.workflow.interceptor.delayed.retry" />
+      <option name="MAIN_CLASS_NAME" value="com.oracle.pic.compute.workflow.interceptor.delayed.retry.DefaultBackoffStrategyTest" />
+      <option name="METHOD_NAME" value="getDelay_generatesExpectedSequesnceOfDelays" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExponentialBackoffStrategyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="workflow-interceptors" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oracle.pic.compute.workflow.interceptor.delayed.retry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.oracle.pic.compute.workflow.interceptor.delayed.retry" />
+      <option name="MAIN_CLASS_NAME" value="com.oracle.pic.compute.workflow.interceptor.delayed.retry.ExponentialBackoffStrategyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExponentialBackoffStrategyTest.configure_throws_whenUnexpectedAnnotationType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="workflow-interceptors" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oracle.pic.compute.workflow.interceptor.delayed.retry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.oracle.pic.compute.workflow.interceptor.delayed.retry" />
+      <option name="MAIN_CLASS_NAME" value="com.oracle.pic.compute.workflow.interceptor.delayed.retry.ExponentialBackoffStrategyTest" />
+      <option name="METHOD_NAME" value="configure_throws_whenUnexpectedAnnotationType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExponentialBackoffStrategyTest.getDelay_generatesExpectedSequence" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="workflow-interceptors" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oracle.pic.compute.workflow.interceptor.delayed.retry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.oracle.pic.compute.workflow.interceptor.delayed.retry" />
+      <option name="MAIN_CLASS_NAME" value="com.oracle.pic.compute.workflow.interceptor.delayed.retry.ExponentialBackoffStrategyTest" />
+      <option name="METHOD_NAME" value="getDelay_generatesExpectedSequence" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DefaultBackoffStrategyTest" />
+        <item itemvalue="JUnit.ExponentialBackoffStrategyTest" />
+        <item itemvalue="JUnit.ExponentialBackoffStrategyTest.getDelay_generatesExpectedSequence" />
+        <item itemvalue="JUnit.ExponentialBackoffStrategyTest.configure_throws_whenUnexpectedAnnotationType" />
+        <item itemvalue="JUnit.DefaultBackoffStrategyTest.getDelay_generatesExpectedSequesnceOfDelays" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8aedb53-c288-4bca-8d5b-0f5c0f12b9e3" name="Default Changelist" comment="" />
+      <created>1592515563486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592515563486</updated>
+      <workItem from="1592515566616" duration="4429000" />
+      <workItem from="1592596530886" duration="1965000" />
+      <workItem from="1592611406821" duration="1872000" />
+      <workItem from="1592811053426" duration="10685000" />
+      <workItem from="1593029931616" duration="17157000" />
+      <workItem from="1593103182663" duration="13513000" />
+      <workItem from="1593135296824" duration="17769000" />
+      <workItem from="1593319090855" duration="313000" />
+      <workItem from="1593448599017" duration="4898000" />
+      <workItem from="1593471892240" duration="1280000" />
+      <workItem from="1593634143782" duration="1950000" />
+      <workItem from="1593709768348" duration="1808000" />
+      <workItem from="1594023613387" duration="1983000" />
+      <workItem from="1594054115605" duration="1338000" />
+      <workItem from="1594056017601" duration="18419000" />
+      <workItem from="1594139175534" duration="27876000" />
+      <workItem from="1594229019052" duration="22047000" />
+      <workItem from="1594330166929" duration="3235000" />
+      <workItem from="1594419060389" duration="487000" />
+      <workItem from="1594542096835" duration="34000" />
+      <workItem from="1594542200294" duration="122000" />
+      <workItem from="1594660177281" duration="33654000" />
+      <workItem from="1594778162798" duration="1281000" />
+      <workItem from="1594833053984" duration="19205000" />
+      <workItem from="1595185716311" duration="14319000" />
+      <workItem from="1595227068578" duration="6791000" />
+      <workItem from="1595268072714" duration="1380000" />
+      <workItem from="1595274409404" duration="13266000" />
+      <workItem from="1595378201168" duration="3215000" />
+      <workItem from="1595470690222" duration="3846000" />
+      <workItem from="1595518967342" duration="21479000" />
+      <workItem from="1595559854593" duration="4777000" />
+      <workItem from="1595567655370" duration="14395000" />
+      <workItem from="1595608161193" duration="14305000" />
+      <workItem from="1595646292759" duration="502000" />
+      <workItem from="1595647210460" duration="3606000" />
+      <workItem from="1595827028669" duration="3402000" />
+      <workItem from="1595870128107" duration="16316000" />
+      <workItem from="1595951231658" duration="4446000" />
+      <workItem from="1595966503646" duration="1596000" />
+      <workItem from="1595976403731" duration="1336000" />
+      <workItem from="1595996289115" duration="3600000" />
+      <workItem from="1596141279612" duration="766000" />
+      <workItem from="1596217423226" duration="490000" />
+      <workItem from="1596224362472" duration="7724000" />
+      <workItem from="1596583111641" duration="3502000" />
+      <workItem from="1596735498728" duration="2666000" />
+      <workItem from="1596745607543" duration="9683000" />
+      <workItem from="1596759130564" duration="4273000" />
+      <workItem from="1596818284510" duration="2275000" />
+      <workItem from="1597089496983" duration="12174000" />
+      <workItem from="1597564198223" duration="1406000" />
+      <workItem from="1597629778281" duration="1240000" />
+      <workItem from="1597684244497" duration="3252000" />
+      <workItem from="1597810989574" duration="699000" />
+      <workItem from="1597861685429" duration="3954000" />
+      <workItem from="1598644827577" duration="1282000" />
+      <workItem from="1598813253844" duration="9223000" />
+      <workItem from="1598859891090" duration="5646000" />
+      <workItem from="1599078032185" duration="12053000" />
+      <workItem from="1599547206225" duration="16655000" />
+      <workItem from="1599679119292" duration="82000" />
+      <workItem from="1599702859110" duration="17486000" />
+      <workItem from="1599843015894" duration="21979000" />
+      <workItem from="1599937593563" duration="11256000" />
+      <workItem from="1600025875529" duration="26089000" />
+      <workItem from="1600155381488" duration="15435000" />
+      <workItem from="1600215478074" duration="1203000" />
+      <workItem from="1600295938469" duration="29591000" />
+      <workItem from="1600589453830" duration="2027000" />
+      <workItem from="1600640064184" duration="6634000" />
+      <workItem from="1600672614614" duration="255000" />
+      <workItem from="1600676953079" duration="16710000" />
+      <workItem from="1600818217404" duration="34000" />
+      <workItem from="1600818268057" duration="7976000" />
+      <workItem from="1600882890064" duration="5238000" />
+      <workItem from="1600890552673" duration="13578000" />
+      <workItem from="1600982533652" duration="39000" />
+      <workItem from="1601019447308" duration="6660000" />
+      <workItem from="1601076250435" duration="7768000" />
+      <workItem from="1601256856757" duration="1109000" />
+      <workItem from="1601262292841" duration="3673000" />
+      <workItem from="1601269850735" duration="13146000" />
+      <workItem from="1601320382617" duration="605000" />
+      <workItem from="1601336235265" duration="3185000" />
+      <workItem from="1601453234488" duration="12724000" />
+      <workItem from="1601630480715" duration="22000" />
+      <workItem from="1601659307966" duration="6087000" />
+      <workItem from="1602142955750" duration="784000" />
+      <workItem from="1602276858846" duration="379000" />
+      <workItem from="1602465314222" duration="406000" />
+      <workItem from="1602529867792" duration="9407000" />
+      <workItem from="1602707744930" duration="1022000" />
+      <workItem from="1602806282604" duration="1243000" />
+      <workItem from="1602809440647" duration="13065000" />
+      <workItem from="1602966010337" duration="9501000" />
+      <workItem from="1603012876009" duration="906000" />
+      <workItem from="1603064204754" duration="770000" />
+      <workItem from="1603065695926" duration="5140000" />
+      <workItem from="1603076991975" duration="1062000" />
+      <workItem from="1603078158970" duration="2104000" />
+      <workItem from="1603080632818" duration="434000" />
+      <workItem from="1603081968938" duration="540000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/worker/src/test/java/com/oracle/pic/compute/worker/workflows/VmLiveMigrationCleanupWorkflowTest.java</url>
+          <line>1834</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/worker/src/test/java/com/oracle/pic/compute/worker/workflows/VmLiveMigrationCleanupWorkflowTest.java</url>
+          <line>1839</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/worker/src/test/java/com/oracle/pic/compute/worker/workflows/VmLiveMigrationCleanupWorkflowTest.java</url>
+          <line>1754</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/admin/src/test/java/com/oracle/pic/compute/admin/resources/web/InstanceWebResourceTest.java</url>
+          <line>577</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/admin/src/main/java/com/oracle/pic/compute/admin/resources/web/InstanceWebResource.java</url>
+          <line>874</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/admin/src/main/java/com/oracle/pic/compute/admin/resources/web/InstanceWebResource.java</url>
+          <line>1274</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kanga/kanga-common/src/main/java/com/oracle/pic/compute/kanga/client/actions/InstanceActions.java</url>
+          <line>570</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kanga/kanga-common/src/main/java/com/oracle/pic/compute/kanga/livemigration/LiveMigrationInternalStateVerifierFactory.java</url>
+          <line>500</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/worker/src/test/java/com/oracle/pic/compute/worker/workflows/steps/LiveMigrateVmStepsTest.java</url>
+          <line>1234</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kanga/kanga-common/src/main/java/com/oracle/pic/compute/kanga/livemigration/LiveMigrationInternalStateVerifierFactory.java</url>
+          <line>470</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kanga/kanga-whitebox-tests/src/test/java/com/oracle/pic/compute/kanga/wb/AutoLiveMigrateInstanceIT.java</url>
+          <line>133</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/worker/src/test/java/com/oracle/pic/compute/worker/workflows/DetachVmInstanceFromHostWorkflowTest.java</url>
+          <line>834</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/worker/src/main/java/com/oracle/pic/compute/worker/workflows/steps/VmAttachmentSteps.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/compute-commons/src/test/java/com/oracle/pic/compute/commons/config/ShapeHypervisorConfigValidationTest.java</url>
+          <line>130</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/worker/src/test/java/com/oracle/pic/compute/worker/livemigration/steps/MigrationVnicStepsV2Test.java</url>
+          <line>285</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/worker/src/test/java/com/oracle/pic/compute/worker/livemigration/steps/MigrationVnicStepsV2Test.java</url>
+          <line>307</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/compute-commons/src/main/java/com/oracle/pic/compute/commons/config/ShapeHypervisorConfig.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/admin/src/test/java/com/oracle/pic/compute/admin/resources/v2/HypervisorV2ResourceTest.java</url>
+          <line>792</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kanga/kanga-blackbox-tests/src/kanga/java/com/oracle/pic/compute/kanga/bb/InstancesKanga.java</url>
+          <line>142</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/compute-commons/src/main/java/com/oracle/pic/compute/commons/config/ComputeConfigurationUtil.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-server/2.29/jersey-server-2.29.jar!/org/glassfish/jersey/server/ApplicationHandler.class</url>
+          <line>201</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/api/src/main/java/com/oracle/pic/compute/resources/v20160918/InstanceResource20160918.java</url>
+          <line>525</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/api/src/test/java/com/oracle/pic/compute/testutils/GuiceResourceTestRule2.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/api/src/test/java/com/oracle/pic/compute/testutils/GuiceResourceTestRule2.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="instance.migrationSessionId" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/compute_control$VmLiveMigrationCleanupWorkflowTest_checkEmitsMetrics_for_deleteSession.ic" NAME="VmLiveMigrationCleanupWorkflowTest.checkEmitsMetrics_for_deleteSession Coverage Results" MODIFIED="1593109127815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.oracle.pic.compute.worker.workflows.*</FILTER>
+    </SUITE>
+  </component>
+</project>
