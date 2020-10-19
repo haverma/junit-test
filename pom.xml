@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <name>Project Reactor Pom</name>
+  <parent>
+    <groupId>com.sample.parent</groupId>
+    <artifactId>parent-pom</artifactId>
+    <version>0.1.1</version>
+    <relativePath>parent_pom</relativePath>
+  </parent>
+
   <groupId>com.sample.project</groupId>
   <artifactId>junit-test</artifactId>
   <version>0.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
+
+  <name>Project Reactor Pom</name>
 
   <properties>
     <surefire-version>2.22.2</surefire-version>
@@ -49,19 +57,6 @@
     </pluginManagement>
   </build>
 
-
-  <parent>
-    <groupId>com.sample.parent</groupId>
-    <artifactId>parent-pom</artifactId>
-    <version>0.1.1</version>
-    <relativePath>parent_pom</relativePath>
-  </parent>
-
-  <modules>
-    <module>test-module</module>
-  </modules>
-
-
   <dependencyManagement>
     <dependencies>
       <dependency>
@@ -89,4 +84,10 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
+
+  <modules>
+    <module>test-module</module>
+    <module>dummy-surefire-junit47</module>
+  </modules>
+
 </project>
